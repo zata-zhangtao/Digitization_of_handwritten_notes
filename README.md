@@ -1,0 +1,2 @@
+# Digitization_of_handwritten_notes
+Digitization_of_handwritten_notes
